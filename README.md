@@ -76,11 +76,17 @@ This project strengthened my understanding of:
 
 ![Full Helmet](images/full-helmet.jpeg)
 
-### Jaw Mechanism
+### Jaw Disconnected
 
 ![Jaw Mechanism](images/helmet-jaw-disconnected.jpeg)
 
 ### Inside the Helmet
 
 ![Inside the Helmet](images/inside-the-helmet.jpeg)
+
+## Demonstration Video
+
+Watch the helmet in action here:
+
+▶️ https://youtu.be/LCgOXJW09QU?si=Y5Q4KOly4Jw2Rn35
 
