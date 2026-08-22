@@ -74,13 +74,13 @@ This project strengthened my understanding of:
 
 ### Full Helmet
 
-![Full Helmet](images/Full Helmet.jpeg)
+![Full Helmet](images/full-helmet.jpeg)
 
-### Helmet with Jaw Part Disconnected
+### Jaw Mechanism
 
-![Helmet with Jaw Part Disconnected](images/Helmet with Jaw Part Disconnected.jpeg)
+![Jaw Mechanism](images/helmet-jaw-disconnected.jpeg)
 
 ### Inside the Helmet
 
-![Inside the Helmet](images/Inside The Helmet.jpeg)
+![Inside the Helmet](images/inside-the-helmet.jpeg)
 
